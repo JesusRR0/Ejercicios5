@@ -1,0 +1,32 @@
+a { 
+    color:firebrick;
+}
+
+a:hover{
+    color:lightcoral;
+}
+
+th{
+    color:darkcyan;
+}
+
+body{
+    background-color: lightblue;
+}
+table{
+    
+    border-style:solid;
+    border-color:black;
+    text-align: center;
+    border-collapse:collapse;
+    border: black 2px solid;
+}
+
+th, td, tr {
+    border: black 1px solid;
+}
+
+h1{
+    color: darkmagenta;
+
+}
