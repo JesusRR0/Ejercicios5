@@ -13,9 +13,9 @@
          $nRandom[$i] = rand(0,20);
         
     }
-
+    
     $stringnRandom = implode(" ",$nRandom);
-    echo "Los numeros aleatorios son: ".$stringnRandom;
+    echo "Los numeros aleatorios son: "."<br>".$stringnRandom;
 
         
 
